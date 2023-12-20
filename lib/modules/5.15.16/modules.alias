@@ -1,0 +1,3 @@
+# Aliases extracted from modules themselves.
+alias xradio_core xradio_wlan
+alias sdio:c*v0020d2281* xradio_wlan
